@@ -1,9 +1,13 @@
 
 # testing
 
-*  @chazmcgarvey
+# *  @chazmcgarvey
 
 /foo/bar::baz.pl  @chazmcgarvey
 
 /foo/qux.txt @chazmcgarvey
+
+CODEOWNERS  @chazmcgarvey
+
+/foo/bar.txt  @sevenology @chazmcgarvey
 
