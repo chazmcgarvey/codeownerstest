@@ -9,5 +9,5 @@
 
 CODEOWNERS  @chazmcgarvey
 
-/foo/bar.txt  @sevenology @chazmcgarvey
+/foo/bar.txt  @sevenology/Core @chazmcgarvey
 
